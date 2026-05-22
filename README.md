@@ -43,7 +43,7 @@ The system is *instrumented* with:
 
 ---
 ## Result
+Thus the experimtent is completed successfully.
 
----
 
 
